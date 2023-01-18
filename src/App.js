@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Register from "./pages/Register";
-import Login from "./pages/Login";
+import SetAvatar from "./components/SetAvatar";
 import Chat from "./pages/Chat";
-import SetAvatar from "./pages/SetAvatar";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 export default function App() {
   return (
     <BrowserRouter>
