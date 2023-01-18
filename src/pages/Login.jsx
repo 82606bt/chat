@@ -84,7 +84,7 @@ export default function Login() {
           />
           <button type="submit">Đăng Nhập</button>
           <span>
-            Bạn chưa có tài khoản ? <Link to="/dang-nhap">Đăng ký.</Link>
+            Bạn chưa có tài khoản ? <Link to="/dang-ky">Đăng ký.</Link>
           </span>
         </form>
       </FormContainer>
